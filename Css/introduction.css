@@ -1,0 +1,16 @@
+/* h1 {
+  color: tomato;
+} */
+/* universal selector  */
+* {
+  color: aquamarine;
+  background-color: rgb(125, 185, 185);
+}
+/* Attribute Selector */
+img[alt] {
+  width: 20px;
+  height: 20px;
+}
+a[target] {
+  background-color: blue;
+}
